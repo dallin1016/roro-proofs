@@ -1,0 +1,16 @@
+title: roro... proofs
+originalAuthor: dallin1016
+description: 'Replaces the icons for all 3 proofs with a custom roro... proof'
+assets:
+- name: remastered/itempic/item-321.imd/-0.dds
+  method: copy
+  source:
+  - name: -0.dds
+- name: remastered/itempic/item-322.imd/-0.dds
+  method: copy
+  source:
+  - name: -0.dds
+- name: remastered/itempic/item-323.imd/-0.dds
+  method: copy
+  source:
+  - name: -0.dds
